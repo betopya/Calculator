@@ -8,7 +8,7 @@ This project is a simple calculator application, published using GitHub Pages.
 - Accessible via GitHub Pages
 
 ## Usage
-The project is live on GitHub Pages at: [Calculator](https://betopya.github.io/calculator/)
+The project is live on GitHub Pages at: [Calculator](https://betopya.github.io/Calculator/)
 
 ## Development
 To run the project locally:
