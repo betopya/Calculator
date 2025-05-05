@@ -29,13 +29,9 @@ body {
  
     display: grid;
     grid-template-columns: repeat(4, 1fr) ;
-  
-    
-
-
     grid-gap: 10px;
     position: relative ;
-    left : 15px
+    left : 15px;
 }
 
 button{
@@ -53,6 +49,7 @@ button:hover {
     color: #983ee2;
    
   }
+  
 .operator {
     background-color: #ffffff;
     color: #983ee2;
