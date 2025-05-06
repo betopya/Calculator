@@ -1,6 +1,6 @@
 # Calculator
 
-This project is a simple calculator application, published using GitHub Pages.
+This project is a simple calculator application, create with html. css and javascript. 
 
 ## Features
 - Clean and modern interface
