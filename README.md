@@ -1,6 +1,6 @@
 # Calculator
 
-This project is a simple calculator application, create with html. css and javascript. 
+This project is a simple calculator application, create with HTML CSS and Javascript. 
 
 ## Features
 - Clean and modern interface
